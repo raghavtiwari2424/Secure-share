@@ -25,18 +25,18 @@ Encryption Library: JavaX Crypto (AES)
 JDK Version: 17 or above
 
 ## ---How to Run the Program---
-Install Java JDK 17+
-Clone the repository
-Open the folder in VS Code
-Compile the program
-Run it
-for encryption-
-1.enter the input path name(e.g in this message.pdf)
-2.enter the output path name(name can be anything but its extension should be .enc)
--*It will generate encrypted file and key*-
-for decryption-
-1.enter the input encrypted file path(it shoud be of extension of .enc)
-2. enter the output decrypted file path.
+Install Java JDK 17+  
+Clone the repository  
+Open the folder in VS Code  
+Compile the program   
+Run it   
+for encryption-  
+1.enter the input path name(e.g in this message.pdf)  
+2.enter the output path name(name can be anything but its extension should be .enc)  
+-*It will generate encrypted file and key*-  
+for decryption-  
+1.enter the input encrypted file path(it shoud be of extension of .enc)  
+2. enter the output decrypted file path.  
 
 ## ---things to remember---
 When you encrypt a file (for example: file.pdf) and later decrypt it,

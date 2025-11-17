@@ -38,7 +38,7 @@ for decryption-
 1.enter the input encrypted file path(it shoud be of extension of .enc)
 2. enter the output decrypted file path.
 
-##---things to remember---
+## ---things to remember---
 When you encrypt a file (for example: file.pdf) and later decrypt it,
 you must save the decrypted output with the SAME file extension.
 

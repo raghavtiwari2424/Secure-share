@@ -1,11 +1,11 @@
-##---Overview of the project---
+## ---Overview of the project---
 This project demonstrates a secure file-sharing mechanism by encrypting files before storage or transfer.
 The core objective is to minimize unauthorized access and data leakage by applying AES-256 encryption to files and allowing only authorized decryption.
 
 This prototype is built as the foundational step of a larger system called:
 “Designing Secure File Sharing in Cloud Storage.”
 
-##---Features---
+## ---Features---
 AES-256 Encryption of any file
 AES-256 Decryption to restore original data
 Displays:
@@ -18,13 +18,13 @@ Fully functional in VS Code using Java (JDK 17+)
 Simple and clean code, beginner friendly
 No external libraries required (uses Java’s built-in crypto)
 
-##---Technologies Used---
+## ---Technologies Used---
 Language: Java
 IDE: VS Code / IntelliJ
 Encryption Library: JavaX Crypto (AES)
 JDK Version: 17 or above
 
-##---How to Run the Program---
+## ---How to Run the Program---
 Install Java JDK 17+
 Clone the repository
 Open the folder in VS Code
